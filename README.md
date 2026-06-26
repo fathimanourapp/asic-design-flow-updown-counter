@@ -424,6 +424,3 @@ asic-design-flow-updown-counter/
 
 **Fathima Noura P P**
 
-M.Tech – VLSI and Embedded Systems
-
-**Technologies:** Verilog HDL • Cadence Genus • Innovus • Tempus • Voltus • Incisive • IMC
