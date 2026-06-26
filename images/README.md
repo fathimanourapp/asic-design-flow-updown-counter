@@ -25,5 +25,3 @@ This directory contains screenshots captured during different stages of the ASIC
 | `18_sta.png` | Static Timing Analysis (STA) results using Cadence Tempus. |
 | `19_power_analysis.png` | Final power analysis report generated using Cadence Voltus. |
 
-> **Note:** The image filenames shown above are examples. Rename them to match the actual filenames in this folder if they differ.
-```
